@@ -86,11 +86,9 @@ python main.py
 
 ### 📉 Cases Over Time
 
-![Cases Trend](outputs/plots/cases_trend.png)
+![Cases Trend](cases_trend.png)
 
-### 🌍 Country-wise Comparison
 
-![Country Comparison](outputs/plots/country_comparison.png)
 
 ---
 
